@@ -1,0 +1,6 @@
+{
+  "name": "eFootball Pro Championship",
+  "description": "Cross-platform football simulation with realistic pitch physics, Stunning shots, Tactical manager playstyles, squad building, and booster crafting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

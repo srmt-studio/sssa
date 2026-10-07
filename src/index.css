@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-volt: #d4ff00;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #020617;
+  color: #f8fafc;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+
+/* Prevent swipe back gestures or scroll bounce during gameplay */
+canvas {
+  touch-action: none;
+}
